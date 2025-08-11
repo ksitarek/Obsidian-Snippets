@@ -16,3 +16,9 @@ body {
     --h5-weight: var(--font-normal);
     --h6-weight: var(--font-normal);
 }
+
+.nav-files-container {
+    --nav-item-size: 11px;
+
+    font-family: Menlo, monospace;
+}
