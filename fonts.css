@@ -18,7 +18,6 @@ body {
 }
 
 .nav-files-container {
-    --nav-item-size: 11px;
-
+    --nav-item-size: 13px;
     font-family: Menlo, monospace;
 }
