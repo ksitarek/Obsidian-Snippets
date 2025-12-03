@@ -1,6 +1,6 @@
 body {
-    --header-font: 'Georgia', serif;
-    --font-text-theme: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --header-font: 'Atkinson Hyperlegible', 'Georgia', serif;
+    --font-text-theme: 'Atkinson Hyperlegible Next', 'Georgia', Helvetica, Arial, sans-serif;
 
     --h1-font: var(--header-font);
     --h2-font: var(--header-font);
